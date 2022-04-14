@@ -30,6 +30,13 @@ I am learning AWS - DevOps.
 
 
 ## 🚀 Skills
+
+<br/>
+
+
+<a href="#" target="_blank"> <img src="https://lms.clarusway.com/pluginfile.php/18033/course/section/1885/common_course%20%282%29.png" alt="python" width="150" height="48"/> </a> 
+
+
 <p>
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150" height="48"/> </a>  
 <!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a>  -->
