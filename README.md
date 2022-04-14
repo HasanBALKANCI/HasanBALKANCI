@@ -60,4 +60,4 @@ I am learning AWS - DevOps.
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=HasanBALKANCI&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanBALKANCI&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanBALAKNCI&theme=chartreuse-dark&show_icons=true <!--layout=compact-->" alt="languages" width="50%" > </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanBALAKNCI&theme=chartreuse-dark&show_icons=true " alt="languages" width="50%" > </p>
