@@ -54,10 +54,13 @@ I am learning AWS - DevOps.
  <a href="#" target="_blank"> <img src="https://cdn.pixabay.com/photo/2018/02/12/13/58/devops-3148393__340.png" alt ="scrum" height="48"/> </a>
   <a href="#" target="_blank"> <img src="https://cdn.pixabay.com/photo/2013/09/18/12/13/sqlite-183454__340.png" alt ="SQL" height="48"/> </a>
 </p>
-
+<br/>
+<br/>
+<br/>
 
 ## 📈 Statistics
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=HasanBALKANCI&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanBALKANCI&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<br/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanBALKANCI&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
