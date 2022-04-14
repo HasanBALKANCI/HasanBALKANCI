@@ -60,4 +60,4 @@ I am learning AWS - DevOps.
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=HasanBALKANCI&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanBALKANCI&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanBALAKNCI&theme=chartreuse-dark&show_icons=true " alt="languages" width="50%" > </p>
+<p align="center"> <img src="<img src="https://camo.githubusercontent.com/13edd416e997ad46ddbeee5dd84269c14f581f29610730fdad75f832a46c4e29/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d426574756c2d4b61706c616e267468656d653d636861727472657573652d6461726b266c61796f75743d636f6d70616374" alt="languages" width="50%" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanBALKANCI&amp;theme=chartreuse-dark&amp;layout=compact" style="max-width: 100%;"> " alt="languages" width="50%" > </p>
