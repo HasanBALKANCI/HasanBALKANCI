@@ -50,7 +50,8 @@ I am learning AWS - DevOps.
  <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="48"/> </a>
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258720-2a39e2f4-cb61-4b1a-9303-db050ffaa003.png" height="48"/> </a> 
  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="48"/> </a>
- <a href="#" target="_blank"> <img src="https://cdn.pixabay.com/photo/2018/02/12/13/58/devops-3148393__340.png" height="48"/> </a>
+ <a href="#" target="_blank"> <img src="https://cdn.pixabay.com/photo/2018/02/12/13/58/devops-3148393__340.png" alt ="scrum" height="48"/> </a>
+  <a href="#" target="_blank"> <img src="https://cdn.pixabay.com/photo/2013/09/18/12/13/sqlite-183454__340.png" alt ="SQL" height="48"/> </a>
 </p>
 
 
