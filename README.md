@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 
 ### What I'm using ? 🛠
 
-I am learning AWS - DevOps.
+I prefer Amazon Web Services & DevOps Tools.
 <br/>
 
-- Python, HTML5, CSS3, Git, GitHub, SQL, AGILE M., Scrum, Compututional Thinking, Network
+- 🏅 AWS Solutions Architect 🧲🧿 Docker | Kubernetes | Terraform 🧿 Jenkins | EC2 🚀 Linux 🚀 Python 🚀 Jira 🚀 SQL 🚀 Git 🚀 GitHub 🚀A gile 🧿Entrepreneurship 🧿 Management 🏅 Leadership 🏅 Law 🏅
+ 
+- 🌱 I’m addicted to learning and growing every day
 
 - 💬 Ask  me about anything that you want to learn
 
@@ -40,7 +42,7 @@ I am learning AWS - DevOps.
 
 
 <p>
- <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150" height="48"/> </a>  
+ <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python " width="150" height="48"/> </a>  
 <!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a>  -->
 <!--  <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="45"/> </a>  -->
 <!--  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="50"/> </a>  -->
