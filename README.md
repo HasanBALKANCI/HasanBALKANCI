@@ -86,9 +86,9 @@ I prefer Amazon Web Services & DevOps Tools.
 </p>
 <br/>
 <br/>
- </hr>
+
 ## 📈 Statistics
- </hr>
+ 
  <br/>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=HasanBALKANCI&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
