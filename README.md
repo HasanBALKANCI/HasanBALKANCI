@@ -40,11 +40,11 @@ I prefer Amazon Web Services & DevOps Tools.
 - 💬 Ask  me about anything that you want to learn
 
 -  You can reach me via Linkedin:  <a href="htt/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
- 
+  <hr/>
 <br/>
 
 ## 🚀 Skills
-
+ <hr/>
 <br/>
 
 
@@ -88,9 +88,9 @@ I prefer Amazon Web Services & DevOps Tools.
 </p>
 <br/>
 <br/>
-
+ <hr/>
 ## 📈 Statistics
- 
+  <hr/>
  <br/>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=HasanBALKANCI&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
