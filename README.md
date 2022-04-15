@@ -34,9 +34,9 @@ I am learning AWS - DevOps.
 <br/>
 
 
-<body style="margin: 0px" data-new-gr-c-s-check-loaded="9.54.0" data-gr-ext-installed=""><img style="-webkit-user-select: none; display: block; margin: auto; padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left); cursor: zoom-in;" src="https://lms.clarusway.com/pluginfile.php/18033/course/section/1885/common_course%20%282%29.png" width="1384" height="469"></body>
+<!-- <body style="margin: 0px" data-new-gr-c-s-check-loaded="9.54.0" data-gr-ext-installed=""><img style="-webkit-user-select: none; display: block; margin: auto; padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left); cursor: zoom-in;" src="https://lms.clarusway.com/pluginfile.php/18033/course/section/1885/common_course%20%282%29.png" width="1384" height="469"></body>
 <img style="-webkit-user-select: none; display: block; margin: auto; padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left); cursor: zoom-in;" src="https://lms.clarusway.com/pluginfile.php/18033/course/section/1885/common_course%20%282%29.png" width="1384" height="469">
-<body style="margin: 0px" data-new-gr-c-s-check-loaded="9.54.0" data-gr-ext-installed=""><img style="-webkit-user-select: none; display: block; margin: auto; padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left); cursor: zoom-in;" src="https://lms.clarusway.com/pluginfile.php/18033/course/section/1885/common_course%20%282%29.png" width="1384" height="469"></body>
+<body style="margin: 0px" data-new-gr-c-s-check-loaded="9.54.0" data-gr-ext-installed=""><img style="-webkit-user-select: none; display: block; margin: auto; padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left); cursor: zoom-in;" src="https://lms.clarusway.com/pluginfile.php/18033/course/section/1885/common_course%20%282%29.png" width="1384" height="469"></body> -->
 
 
 <p>
