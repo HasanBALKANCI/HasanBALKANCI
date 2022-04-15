@@ -34,11 +34,11 @@ I prefer Amazon Web Services & DevOps Tools.
 <br/>
 
 - 🏅 AWS Solutions Architect 🧲🧿 Docker | Kubernetes | Terraform 🧿 Jenkins | EC2 🚀 Linux 🚀 Python 🚀 Jira 🚀 SQL 🚀 Git 🚀 GitHub 🚀A gile 🧿Entrepreneurship 🧿 Management 🏅 Leadership 🏅 Law 🏅
- 
+ <br/>
 - 🌱 I’m addicted to learning and growing every day
-
+<br/>
 - 💬 Ask  me about anything that you want to learn
-
+<br/>
 -  You can reach me via Linkedin:  <a href="htt/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
   <hr/>
 <br/>
