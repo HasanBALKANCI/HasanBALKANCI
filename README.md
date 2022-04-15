@@ -59,7 +59,6 @@ I prefer Amazon Web Services & DevOps Tools.
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform" height="48"/> </a>
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira"  height="48"/> </a>
- 
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python " width="150" height="48"/> </a> 
  
 <!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a>  -->
