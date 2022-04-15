@@ -44,7 +44,6 @@ I prefer Amazon Web Services & DevOps Tools.
 <br/>
 
 ## 🚀 Skills
- <hr/>
 <br/>
 
 
