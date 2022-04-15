@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 <a href="https://hasanbalkanci.github.io" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=isim" alt="visitor counter" width="15%"/>
 <!-- <p align="left">  </p> -->
 
-### What I'm using ? 🛠
+### What I'm using ? 🛠 </hr>
+ 
+ <br/>
 
 I prefer Amazon Web Services & DevOps Tools.
 <br/>
